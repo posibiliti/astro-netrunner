@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Banlist"
 permalink: /banlist
+---
 
 ### Card Pool
 All cards released by FFG and NSG are included in Astro as of the date of their Standard format legality.
@@ -9,6 +11,7 @@ The following are excluded as they do not fit this criteria:
 *   Campaign-only cards
 *   Draft-only cards
 *   WotC (ONR) cards
+
 
 ### Corp Bans
 
@@ -25,6 +28,7 @@ The following are excluded as they do not fit this criteria:
 | [Ob Superheavy Logistics: Extract. Export. Excel.](https://netrunnerdb.com/en/card/33057) | Weyland | Identity |
 | [Slot Machine](https://netrunnerdb.com/en/card/28004) | NBN | ICE |
 | [Whampoa Reclamation](https://netrunnerdb.com/en/card/12079) | Neutral | Asset |
+
 
 ### Runner Bans
 
@@ -46,6 +50,7 @@ The following are excluded as they do not fit this criteria:
 | [Vamadeva](https://netrunnerdb.com/en/card/10061) | Criminal | Program |
 | [Watch the World Burn](https://netrunnerdb.com/en/card/23100) | Neutral | Event |
 
+
 ### Ban Rationale
 
 The primary goals of Astro are:
@@ -60,6 +65,7 @@ Therefore cards which:
 *  Enable the same card to be played reliably every game or many times in one game
 *  Reduce the viability of a large number of identities
 *  Are widely agreed by the community to reduce the enjoyment of the format
+
 are subject to scrutiny and possible inclusion on the ban list.
 
 Power alone is not the measure by which cards are included on the banlist, but may be a cause for one of these conditions.
