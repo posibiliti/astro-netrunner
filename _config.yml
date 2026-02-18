@@ -2,5 +2,7 @@
 title: "Astro Netrunner"
 description: "A singleton Netrunner format using the Eternal card pool. Not associated with FFG or NSG."
 url: "https://posibiliti.github.io/astro-netrunner/"
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 ---
