@@ -11,6 +11,7 @@ The following are excluded as they do not fit this criteria:
 *   Draft-only cards
 *   WotC (ONR) cards
 
+* * *
 
 ### Corp Bans
 
@@ -49,6 +50,7 @@ The following are excluded as they do not fit this criteria:
 | [Vamadeva](https://netrunnerdb.com/en/card/10061) | Criminal | Program |
 | [Watch the World Burn](https://netrunnerdb.com/en/card/23100) | Neutral | Event |
 
+* * *
 
 ### Ban Rationale
 
