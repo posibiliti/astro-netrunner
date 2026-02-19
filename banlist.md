@@ -13,6 +13,8 @@ The following are excluded as they do not fit this criteria:
 
 * * *
 
+*  ## [Jan 18 2026 Ban List Update Notes](https://posibiliti.github.io/astro-netrunner/banlist/2026/02/18/initial_testing.html)
+
 ### Corp Bans
 
 | Card | Faction | Type |
