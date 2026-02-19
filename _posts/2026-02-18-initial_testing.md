@@ -1,8 +1,10 @@
 ---
 layout: post
+author: saff
 title: "Initial Format Testing"
 date: 2026-02-18
 categories: BANLIST
+tags: bans
 description: "Initial banlist posted, expecting frequent changes while we test the format more. Read more for specific ban reasons."
 ---
 
