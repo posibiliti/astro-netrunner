@@ -5,7 +5,7 @@ title: "Initial Format Testing"
 date: 2026-02-18
 categories: BANLIST
 tags: bans
-description: "Initial banlist posted, expecting frequent changes while we test the format more. Read more for specific ban reasons."
+description: "Initial banlist posted, expecting frequent changes while we test the format more. Read more for explanations behind each ban."
 ---
 
 ## Format Pre-History
@@ -48,7 +48,7 @@ Three outlier cards were removed to bring Runner (particularly Crim) econ in lin
 In an effort to maintain viability of a variety of decks, three cards which too effectively squash certain strategies have been removed. [Aaron Marrón](https://netrunnerdb.com/en/card/11106) is extremely good against many tag-based strategies while still being a valuable draw source in other matchups.
 [Film Critic](https://netrunnerdb.com/en/card/08086) negates defensive agendas, which are already weakened by reduced access in singleton. [Şifr](https://netrunnerdb.com/en/card/11101) both allows runners to ignore ice strength and repeatedly enables ice destruction.
 
-[Paperclip](https://netrunnerdb.com/en/card/11024) was removed to open up space for other fracters, as it is both extremely efficient at breaking, recursive, and able to be installed clicklessly. When Paperclip was in Standard, having an obvious "best-in-class" fracter reduced play rates of other options and
+[Paperclip](https://netrunnerdb.com/en/card/11024) was removed to open up space for other fracters, as it is extremely efficient at breaking, recursive, and able to be installed clicklessly. When Paperclip was in Standard, having an obvious "best-in-class" fracter reduced play rates of other options and
 warped the playability of many barriers. Testing so far has shown that there is a wide range of viable options for fracters with various tradeoffs in its absense. [Bukhgalter](https://netrunnerdb.com/en/card/26016) and [Yog.0](https://netrunnerdb.com/en/card/01014) have similar concerns about reducing strategic diversity but are left
 for now until it is shown that they are choking out options, whether for breakers or ice.
 
