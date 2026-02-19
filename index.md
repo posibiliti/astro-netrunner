@@ -15,5 +15,6 @@ Astro is a player-maintained Netrunner format which allows only a single copy of
 
 {% for post in site.posts %}
   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>  
+  <p>{{post.date}}</p> 
   <p>{{post.description}}</P>
 {% endfor %}
