@@ -74,7 +74,7 @@ The best counterplay to one player playing a Current is for the other player to 
 
 ### [Nova](https://netrunnerdb.com/en/card/33093)/[Ampère](https://netrunnerdb.com/en/card/33128)
 
-As a definiton of format identity, these bans are a planted flag that says that this format is not solely about random chaos or making simple best-of-the-best goodstuff lists. Maintaining factional identity, being able to make educated reads on what opponents are playing, and making shrewd influence decisions
+These bans are a planted flag that says that this format is not solely about random chaos or making simple best-of-the-best goodstuff lists. Maintaining factional identity, being able to make educated reads on what opponents are playing, and making shrewd influence decisions
 are important aspects of the kind of gameplay we want to encourage.
 
 ### [Mti Mwekundu: Life Improved](https://netrunnerdb.com/en/card/21114)
