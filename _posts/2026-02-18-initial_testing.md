@@ -24,7 +24,9 @@ However, frequent updates are expected in the early period as the positions of d
 ### Extreme Consistency
 
 One of the unique appeals of singleton formats is seeing a wider pool of cards that explores beyond the top tier of power, with slightly more variance in how each game plays out. With that in mind, the two IDs [Ob Superheavy Logistics: Extract. Export. Excel.](https://netrunnerdb.com/en/card/33057)
-and [Kabonesa Wu: Netspace Thrillseeker](https://netrunnerdb.com/en/card/21025) have been removed. Both IDs have unparalleled ability to remove variance from the game and see exactly the right card for every situation. While [World Tree](https://netrunnerdb.com/en/card/33091) displays many of the same qualities,
+and [Kabonesa Wu: Netspace Thrillseeker](https://netrunnerdb.com/en/card/21025) have been removed. Both IDs have unparalleled ability to remove variance from the game and see exactly the right card for every situation.
+
+While [World Tree](https://netrunnerdb.com/en/card/33091) displays many of the same qualities,
 we have not chosen to ban it yet until we have more data about how reliably it can installed and how readily corps can present obstacles to triggering it.
 
 
@@ -65,6 +67,10 @@ The Runner econ options of [Rezeki](https://netrunnerdb.com/en/card/26026) and [
 
 [Friends in High Places](https://netrunnerdb.com/en/card/11090), [Museum of History](https://netrunnerdb.com/en/card/10019), and [Whampoa Reclamation](https://netrunnerdb.com/en/card/12079) were all removed for the same reason: slowing the game down and creating monotonous games where the same card is used many times.
 While most recursion is allowed, these cards were repeat offenders with low cost of inclusion that could easily drag out games in unhealthy ways.
+
+### Currents
+
+The best counterplay to one player playing a Current is for the other player to play a Current. This encouragement for every deck to slot some number of Currents just to counter others mixed with the extremely high power of certain Currents justifies their removal. The format was tested with the presence of Currents in early iterations but we found that they did not produce enough interesting gameplay to offset their problems.
 
 ### [Nova](https://netrunnerdb.com/en/card/33093)/[Ampère](https://netrunnerdb.com/en/card/33128)
 
