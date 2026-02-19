@@ -3,7 +3,7 @@ layout: post
 title: "Initial Format Testing"
 date: 2026-02-18
 categories: BANLIST
-description: "Initial banlist posted, expecting frequent changes while we test the format more."
+description: "Initial banlist posted, expecting frequent changes while we test the format more. Read more for specific ban reasons."
 ---
 
 ### Format Pre-History
@@ -12,7 +12,7 @@ Astro has been an occasional side project format for the past few years with a s
 The format began with a points list like Eternal, inspired by the similar Magic format, Canadian Highlander, but it was quickly found to be unsuitable for the format.
 
 Due to Netrunner's increased access to card draw and much more limited removal of game pieces, even a single copy of certain cards could not be adequately balanced with the rest of the card pool with just a points list.
-After several months of testing, we present the first public testing ban list which attempts to outline the shape of what we want it to grow into.
+After several months of testing, we present the first public testing [ban list](/astro-netrunner/banlist) which attempts to outline the shape of what we want it to grow into.
 However, frequent updates are expected in the early period as the positions of decks settles into a proper meta.
 
 ### Ban Reasoning
