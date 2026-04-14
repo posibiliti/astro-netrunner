@@ -28,4 +28,4 @@ We had looked at targeting [Red Planet Couriers](https://netrunnerdb.com/en/card
 
 Tributary was showing up in too many decks and had an excessive warping effect in each game it was played. Unless the Runner is playing ice destruction or similar strategies, it presents a constant tax through the entire game that particularly impedes run-based economy and complicates board state much more than one ice should be able to.
 
-As Tributary was a natural, near-omnipresent soft-counter to Endurance, further attention will need to be paid to how Endurance fits into the meta moving forward.
+As Tributary was a natural, near-omnipresent soft-counter to [Endurance](https://netrunnerdb.com/en/card/33025), further attention will need to be paid to how Endurance fits into the meta moving forward.
