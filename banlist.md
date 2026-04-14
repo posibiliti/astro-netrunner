@@ -13,7 +13,8 @@ The following are excluded as they do not fit this criteria:
 
 * * *
 
-*  ## [Feb 18 2026 Ban List Update Notes](https://posibiliti.github.io/astro-netrunner/banlist/2026/02/18/initial_testing.html)
+*  ## [April 2026 Ban List Update Notes](https://posibiliti.github.io/astro-netrunner/banlist/2026/04/14/first-ban-update.html)
+* [Feb 2026 Ban List Update Notes](https://posibiliti.github.io/astro-netrunner/banlist/2026/02/18/initial_testing.html)
 
 ### Corp Bans
 
@@ -24,11 +25,13 @@ The following are excluded as they do not fit this criteria:
 | [Ampère: Cybernetics For Anyone](https://netrunnerdb.com/en/card/33128) | Neutral | Identity |
 | [Engram Flush](https://netrunnerdb.com/en/card/26108) | Jinteki | ICE |
 | [Friends in High Places](https://netrunnerdb.com/en/card/11090) | Haas-Bioroid | Operation |
+| [Government Takeover](https://netrunnerdb.com/en/card/07006) | Weyland | Agenda |
 | [Hired Help](https://netrunnerdb.com/en/card/23101) | Neutral | Upgrade |
 | [Mti Mwekundu: Life Improved](https://netrunnerdb.com/en/card/21114) | Jinteki | Identity |
 | [Museum of History](https://netrunnerdb.com/en/card/10019) | Neutral | Asset |
 | [Ob Superheavy Logistics: Extract. Export. Excel.](https://netrunnerdb.com/en/card/33057) | Weyland | Identity |
 | [Slot Machine](https://netrunnerdb.com/en/card/28004) | NBN | ICE |
+| [Tributary](https://netrunnerdb.com/en/card/34111) | Jinteki | ICE |
 | [Whampoa Reclamation](https://netrunnerdb.com/en/card/12079) | Neutral | Asset |
 
 
