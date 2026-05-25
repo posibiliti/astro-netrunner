@@ -20,7 +20,7 @@ The following are excluded as they do not fit this criteria:
 
 | Card | Faction | Type |
 |:-------------|:------------------|:------|
-| **All Cards with the Current Subtype** | - | Operation |
+| [**All Cards with the Current Subtype**](https://netrunnerdb.com/find/?q=s%3Acurrent+d%3Acorp&sort=cost&view=images&_locale=en) | - | Operation |
 | [Accelerated Diagnostics](https://netrunnerdb.com/en/card/04052) | Haas-Bioroid | Operation |
 | [Ampère: Cybernetics For Anyone](https://netrunnerdb.com/en/card/33128) | Neutral | Identity |
 | [Engram Flush](https://netrunnerdb.com/en/card/26108) | Jinteki | ICE |
@@ -39,7 +39,7 @@ The following are excluded as they do not fit this criteria:
 
 | Card | Faction | Type |
 |:-------------|:------------------|:------|
-| **All Cards with the Current Subtype** | - | Event |
+| [**All Cards with the Current Subtype**](https://netrunnerdb.com/find/?q=s%3Acurrent+d%3Arunner&sort=cost&view=images&_locale=en) | - | Event |
 | [Aaron Marrón](https://netrunnerdb.com/en/card/11106) | Criminal | Resource |
 | [Aghora](https://netrunnerdb.com/en/card/10097) | Anarch | Program |
 | [Bloo Moose](https://netrunnerdb.com/en/card/12089) | Neutral | Resource |
