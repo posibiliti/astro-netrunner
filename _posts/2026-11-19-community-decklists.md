@@ -19,7 +19,7 @@ Thank you everyone who has tried out the format this year!
 * [Gagarin](https://netrunnerdb.com/en/deck/view/7b5a353b-76a2-4e74-b1f1-6fc7682cae59) by Ketzol
 * [Gagarin](https://netrunnerdb.com/en/deck/view/ad691516-6e75-44d4-b4b3-066ec94857fe) by Minstrel
 * [HB: EtF (Coats)](https://netrunnerdb.com/en/deck/view/aee3c736-abd8-492d-92d0-66dde0844c1d) by
-* [Jinteki: PU](https://netrunnerdb.com/en/deck/view/9f4a7b2e-e1f3-48f6-956b-12e0140f8169) by Ketzol Solemn
+* [Jinteki: PU](https://netrunnerdb.com/en/deck/view/9f4a7b2e-e1f3-48f6-956b-12e0140f8169) by Ketzol
 * [Jinteki: RP (Keeling)](https://netrunnerdb.com/en/deck/view/d02a13cc-f6fb-4c2c-9cd7-4c9459f251c8) by Saff
 * [LEO](https://netrunnerdb.com/en/deck/view/f88ef4cc-9538-44e7-bc53-4e2ec173adfa) by Ketzol
 * [NBN: CtM](https://netrunnerdb.com/en/deck/view/0b0f5975-782c-4acb-9171-771c1695c9ed) by Minstrel
